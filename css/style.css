@@ -208,6 +208,7 @@ h2:hover, .avatar span:hover{
 }
 .copyright p{
    color: var(--White);
+   font-size: 10px;
 }
 
 .copyright span {
